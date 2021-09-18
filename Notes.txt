@@ -1,0 +1,26 @@
+Auto Install
+
+sudo chmod +x *.sh
+
+./prep.sh
+
+then
+
+./setup.sh
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# Manual Install Method
+
+# Forum Link
+# https://jnet.forumotion.com/t1767-rdp-for-rpi4#2729
+#
+sudo apt update
+sudo apt-get install raspberrypi-ui-mods xinit xserver-xorg
+
+sudo reboot
+
+sudo apt install xrdp 
