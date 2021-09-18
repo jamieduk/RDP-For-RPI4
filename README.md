@@ -2,4 +2,7 @@
 git clone https://github.com/jamieduk/RDP-For-RPI4.git
 # Then UNZIP
 unzip *.zip
-# Visit jnet.sytes.net
+# Forum Link
+# https://jnet.forumotion.com/t1767-rdp-for-rpi4#2729
+#
+# Site Link jnet.sytes.net
