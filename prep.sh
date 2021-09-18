@@ -4,7 +4,7 @@
 #
 # ./prep.sh
 #
-echo "Starting Setup"
+echo "Starting Prep"
 sudo apt install -y raspberrypi-ui-mods xinit xserver-xorg
 # Notes.txt
 # Manual Install
