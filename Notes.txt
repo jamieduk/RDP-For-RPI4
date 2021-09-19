@@ -1,5 +1,9 @@
 Auto Install
 
+git clone https://github.com/jamieduk/RDP-For-RPI4.git
+
+cd RDP-For-RPI4
+
 sudo chmod +x *.sh
 
 ./prep.sh
